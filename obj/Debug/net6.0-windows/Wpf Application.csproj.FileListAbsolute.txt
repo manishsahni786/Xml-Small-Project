@@ -1,0 +1,21 @@
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.csproj.AssemblyReference.cache
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\App.g.cs
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application_MarkupCompile.cache
+D:\web_projects\WPF application\Wpf Application\bin\Debug\net6.0-windows\Wpf Application.exe
+D:\web_projects\WPF application\Wpf Application\bin\Debug\net6.0-windows\Wpf Application.deps.json
+D:\web_projects\WPF application\Wpf Application\bin\Debug\net6.0-windows\Wpf Application.runtimeconfig.json
+D:\web_projects\WPF application\Wpf Application\bin\Debug\net6.0-windows\Wpf Application.dll
+D:\web_projects\WPF application\Wpf Application\bin\Debug\net6.0-windows\Wpf Application.pdb
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application_MarkupCompile.lref
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\MainWindow.baml
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.g.resources
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.AssemblyInfoInputs.cache
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.AssemblyInfo.cs
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.csproj.CoreCompileInputs.cache
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.dll
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\refint\Wpf Application.dll
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.pdb
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\Wpf Application.genruntimeconfig.cache
+D:\web_projects\WPF application\Wpf Application\obj\Debug\net6.0-windows\ref\Wpf Application.dll

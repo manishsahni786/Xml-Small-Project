@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpf_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Application"
+        Width="500"
+        mc:Ignorable="d"
+        Title="Names">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label RenderTransformOrigin="0.496,0.213" Margin="0,0,0,28" >Names</Label>
+        <ListBox  x:Name="lstNames" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="-5,29,5,0" Grid.RowSpan="2" />
+        <StackPanel Grid.Column="1" Margin="0,-14,5,0" Grid.RowSpan="2">
+            <TextBox x:Name="txtName" Height="38" Margin="0,43,0,0" />
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName_Click" Content="Add Name"/>
+        </StackPanel>
+    </Grid>
+
+
+</Window>
