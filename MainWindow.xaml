@@ -22,7 +22,7 @@
         <ListBox  x:Name="lstNames" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="-5,29,5,0" Grid.RowSpan="2" />
         <StackPanel Grid.Column="1" Margin="0,-14,5,0" Grid.RowSpan="2">
             <TextBox x:Name="txtName" Height="38" Margin="0,43,0,0" />
-            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName_Click" Content="Add Name"/>
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName_Click" Content="Add New Name"/>
         </StackPanel>
     </Grid>
 
