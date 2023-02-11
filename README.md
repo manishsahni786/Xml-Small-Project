@@ -1,1 +1,1 @@
-# Xml-Small-Project
+# WPF Demo Project
